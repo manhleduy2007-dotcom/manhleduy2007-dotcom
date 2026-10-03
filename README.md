@@ -30,4 +30,4 @@ Learning cybersecurity from the ground up — CTF player & tool builder.
 ## 📈 CTF Progress
 - ✅ PicoCTF — General Skills
 - 🔄 PicoCTF — Forensics (in progress)
-- ⏳ PicoCTF — Web Exploitation (next)
+- 🔄 PicoCTF — Web Exploitation (in progress)
