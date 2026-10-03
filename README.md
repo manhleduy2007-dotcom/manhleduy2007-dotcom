@@ -1,6 +1,6 @@
 # Hi, I'm Manh 👋
 
-First-year Information Technology student @ UET - VNU Hanoi  
+Second-year Information Technology student @ UET - VNU Hanoi  
 Learning cybersecurity from the ground up — CTF player & tool builder.
 
 ---
